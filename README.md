@@ -112,11 +112,12 @@ The training accuracy is much higher than the validation accuracy, it indicate o
 ---
 
 ### Confusion Matrix and Classification Reports
-![Screenshot 2024-09-16 115359](https://github.com/user-attachments/assets/5729a7c1-ad1d-441e-9c3c-c0a691cd5881)
+![Screenshot 2024-09-16 122423](https://github.com/user-attachments/assets/9cdb0e27-ab3e-4cd8-a8c8-19808854659f)
 
 - Compare Model Scores
 
-![Screenshot 2024-09-16 115706](https://github.com/user-attachments/assets/1e269e09-1bbf-4761-8094-d6a70645512e)
+![Screenshot 2024-09-16 122436](https://github.com/user-attachments/assets/f35acef1-76a2-4626-b965-272aea02c931)
+
 
 
 ---
@@ -130,7 +131,7 @@ The training accuracy is much higher than the validation accuracy, it indicate o
 
 - Compare AUC Curve Score
 
-![Screenshot 2024-09-13 103007](https://github.com/user-attachments/assets/e77cac92-a15d-4906-a64b-b4718d71745f)
+![Screenshot 2024-09-16 122043](https://github.com/user-attachments/assets/e030ad0f-68a2-4412-a6b4-02acf4474fd4)
 
 ---
 
